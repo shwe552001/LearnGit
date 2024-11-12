@@ -1,0 +1,2 @@
+1. Can't create an account or sign-in any of the stores
+2.While sorting by price 83.99 and 94.99 not getting sorted accordingly, I can find issue only with these numbers rest of the prices are sorting fine
